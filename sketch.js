@@ -26,7 +26,7 @@ gameState = "serve";
 
 function draw() {  
   //fill the computer screen with white color
-  background("white");
+  background("green");
   edges = createEdgeSprites();
   //display Scores
   text(computerScore,170,20);
